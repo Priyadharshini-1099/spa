@@ -1,0 +1,358 @@
+*{
+    padding: 0;
+    margin: 0;
+    
+
+}
+.merriweather-bold {
+    font-family: "Merriweather", serif;
+    font-weight: 500;
+    font-style: large;
+    font-size: 60px;
+    text-align: center;
+    padding-top: 10px;
+    letter-spacing: 5px;
+}
+.spa{
+    text-align: center;
+    letter-spacing: 2px;
+    padding-top: 5px;
+    font-style: small;
+}
+#navigation{
+    margin-left: 100px;
+}
+.member{
+    margin-left: 100px;
+}
+.navbar-nav{
+    font-family: "Merriweather", serif;
+    text-align: center;
+    
+}
+.container{
+    font-family: "Merriweather", serif;
+}
+.horizon{
+    border: 5px solid black;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 16px;
+    letter-spacing: 2px;
+}
+.firstimg{
+    position: relative;
+}
+.firsttext{
+    position: absolute;
+    top:70px;
+    left: 1000px;
+    font-family: "Merriweather", serif;
+    font-size: 12px;
+    font-weight: 50px;
+    
+}
+.oil{
+    margin-top: 55px;
+    
+    margin-left: 360px;
+}
+.seccenter{
+    margin-top:10px;
+    margin-left: 73px;
+    
+    width: 600px;
+    height: 450px;
+    margin-bottom: 20px;
+}
+.secleft{
+    margin-top: 52px;
+    
+    width: 300px;
+    height: 200px;
+}
+.order{
+    border: 10px solid black;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 16px;
+    letter-spacing: 2px;
+    width: 248px;
+}
+.second{
+    display: flex;
+    margin-top: 20px;
+}
+.sectext{
+ text-align: right;
+ margin-left: 110px;
+ margin-right: 0px;
+ font-size: 12px;
+ margin-top: 10px ;
+}
+.vl {
+    border-left: 4px solid black;
+    height: 530px;
+    position: absolute;
+    left: 390px;
+    
+    top: 1210px;
+  }
+  .border{
+    border: 200px solid black;
+    width: 50px;
+  }
+  .thirdtext{
+    font-size: 12px;
+    text-align: right;
+    margin-right: 50px;
+  }
+  .thirdcenter{
+    height: 620px;
+    width: 480px;
+  }
+  .thirdright{
+    font-size: 20px;
+    letter-spacing: 4px;
+  }
+  .thirdpara{
+    font-size: 15px;
+    margin-top: 25px;
+  }
+  .hr{
+    border: 2px solid black;
+    height: 0px;
+    margin-top: 45px;
+    }
+    .text{
+        margin-left: 380px;
+        margin-top: 40px;
+        letter-spacing: 5px;
+    }
+    .fourleft{
+        font-size: 12px;
+       margin-left: 160px;
+       margin-top: 20px;
+    }
+   .four{
+    display: flex;
+   }
+   .fourcenter{
+    font-size: 12px;
+   margin-left: 20px;
+   margin-top: 20px;
+}
+.fourright{
+    font-size: 12px;
+   margin-left: 20px;
+   margin-top: 20px;
+   position: relative;
+}
+.cart{
+   border: 10px solid black; 
+   background-color: black; 
+   color: white;
+    text-align: center;
+    width: 150px;
+    margin-left: 25px;
+}
+.items{
+    border: 2px solid black;
+    margin-left: 5px;
+    height: 38px;
+    width: 70px;
+    padding-left: 8px;
+    padding-top: 2px;
+}
+.addcart{
+    display: flex;
+}
+.imgtext{
+    position: absolute;
+    top: 170px;
+    left: 123px;
+}
+.fiveimg{
+    margin-top: 50px;
+    margin-left: 170px;
+    width: 1000px;
+    position: relative;
+}
+.release{
+    position: absolute;
+    top: 371%;
+    left: 890px;
+    border: 10px solid black;
+    background-color: black;
+    color: white;
+    width: 320px;
+    height: 40px;
+    
+    text-align: center;
+}
+.six{
+    display: flex;
+    margin-top: 30px;
+    margin-left: 180px;
+}
+.horizonline{
+    margin-top: 100px;
+    border: 5px solid black;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 12px;
+    letter-spacing: 2px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left:30px ;
+}
+.sevenleft{
+    margin-top: 45px; 
+    margin-left: 190px;
+}
+.seven{
+    display: flex;
+}
+.sevtop{
+        width: 180px;
+         height: 260px; 
+         margin-left: 20px; 
+         margin-top: 95px;
+}
+.sevbottom{
+    width: 180px;
+     height: 260px; 
+     margin-left: 20px; 
+     margin-top: 27px;
+}
+.sevtext{
+    margin-top: 120px;
+    margin-left: 40px;
+}
+.itemstwo{
+    border: 2px solid black;
+    margin-left: 5px;
+    height: 42px;
+    width: 100px;
+    padding-left: 22px;
+    padding-top: 3px;
+}
+.carttwo{
+
+        border: 10px solid black; 
+        background-color: black; 
+        color: white;
+         text-align: center;
+         width: 185px;
+         margin-left: 25px;
+}
+.eight{
+    margin-top: 70px;
+    position: relative;
+    width: 1300px;
+}
+.eightright{
+    letter-spacing: 3px;
+    position: absolute;
+    top: 575%;
+    left: 52%;
+}
+.subscribe{
+    letter-spacing: 2px;
+    position: absolute;
+    top: 630%;
+    left: 18%;
+}
+.vltwo{
+    border-left: 3.5px solid black;
+    height: 250px;
+    position: absolute;
+    left: 930px;
+    top: 565.60%;
+}
+.signup{
+    display: flex;
+}
+.email{
+    color: black;
+    background-color: white;
+    border: 10px solid white;
+    width: 240px;
+    height: 38px;
+    position: absolute;
+    top: 635%;
+    left: 18%;
+    text-align: left;
+    padding-left: 3px;
+    font-size: 13px;
+    
+}
+.sign{
+    color: white;
+    background-color: black;
+    border: 10px solid black;
+    width: 175px;
+    height: 38px;
+    position: absolute;
+    top: 635%;
+    left: 30%;
+    text-align: center;
+    padding-left: 3px;
+    font-size: 17px;
+}
+.terms{
+    position: absolute;
+    top: 640%;
+    left: 18%;
+    font-size: 11.05px;
+}
+.horizonthird{
+    border: 5px solid black;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 12px;
+    letter-spacing: 2px;
+    width: 1300px;
+    padding-left: 20px;
+
+}
+.last{
+    display: flex;
+}
+.left{
+    margin-top: 80px;
+    margin-left: 250px;
+    font-size: 13px;
+}
+.center{
+    margin-top: 120px;
+    margin-left: 130px;
+    font-weight: lighter;
+}
+.form{
+    margin-top: 12px;
+    margin-left: 120px;
+    border: 2px solid black;
+    width: 360px;
+}
+.register{
+    border: 10px solid black; 
+        background-color: black; 
+        color: white;
+         text-align: center;
+         width: 360px;
+         margin-left: 120px;
+         margin-top: 12px;
+         font-size: 18px;
+         height: 40px;
+}
+.conditions{
+    margin-left: 120px;
+    font-size: 10px;
+    margin-bottom: 100px;
+}
+
